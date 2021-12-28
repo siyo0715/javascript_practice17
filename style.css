@@ -1,0 +1,19 @@
+.accordeion {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.accordeion-trigger {
+  margin: 0;
+  padding: 10px;
+  display: block;
+  background-color: #333;
+  color: #fff;
+  border: 1px solid blue;
+}
+.accordeion-contents {
+  margin: 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  display: none;
+}
